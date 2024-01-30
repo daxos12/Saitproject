@@ -20,7 +20,7 @@ a{
 }
 #image1{
     /* background-color: aqua; */
-    background-image: url("10305360a.jpg");
+    background-image: url("/Saitproject/images/10305360a.jpg");
     background-size: cover;
     opacity: 0.8;
     width: 1000px;
@@ -30,7 +30,7 @@ a{
 }
 #image2{
     /* background-color: yellow; */
-    background-image: url("13936384a.webp");
+    background-image: url("/Saitproject/images/13936384a.webp");
     background-size: cover;
     opacity: 0.8;
     width: 500px;
@@ -44,7 +44,7 @@ a{
 }
 #image3{
     /* background-color:hotpink; */
-    background-image: url("15488271a.webp");
+    background-image: url("/Saitproject/images/15488271a.webp");
     background-size: cover;
     opacity: 0.8;
     width: 500px;

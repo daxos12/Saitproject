@@ -13,7 +13,7 @@ div{
     height:700px;
     margin:15px;
     /* background-color: pink; */
-    background-image: url("background-img.jpg");
+    background-image: url("/Saitproject/images/background-img.jpg");
     background-repeat: cover;
     display:flex;
     flex-direction:row;
@@ -36,7 +36,7 @@ div{
     padding:0px;
     margin:20px 0px 40px 40px; 
     align-self: baseline;
-    background-image: url("shoes.png");
+    background-image: url("/Saitproject/images/shoes.png");
     background-size:cover;
     border-radius: 30px;
     border: 2px solid yellow;
@@ -162,40 +162,40 @@ span{
     border:2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes1.png");
+    background-image: url("/Saitproject/images/shoes1.png");
 }
 #img2{
     border:2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes2.1.png");
+    background-image: url("/Saitproject/images/shoes2.1.png");
     background-size: cover;
 }
 #img3{
     border: 2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes3.png");
+    background-image: url("/Saitproject/images/shoes3.png");
     background-size: cover;
 }
 #img4{
     border: 2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes4.png");
+    background-image: url("/Saitproject/images/shoes4.png");
 }
 #img5{
     border:2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes5.png");
+    background-image: url("/Saitproject/images/shoes5.png");
 }
 
 #img6{
     border:2px solid yellow;
     height:80px;
     width:80px;
-    background-image: url("shoes6.png");
+    background-image: url("/Saitproject/images/shoes6.png");
 }
 
 #shortlist{

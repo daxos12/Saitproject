@@ -6,7 +6,7 @@
     
 }
 body{
-    background-image:url("bg image.jpg") ;
+    background-image:url("/Saitproject/images/bg\ image.jpg") ;
     display:flex;
     justify-content: center;
     align-items:center;
