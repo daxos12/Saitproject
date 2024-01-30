@@ -1,0 +1,212 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(47, 20, 20);
+}
+a{
+    text-decoration:none;
+    color:darkblue;
+}
+h2{
+    margin-bottom:0px;
+    color: rgb(93, 0, 54);
+}
+div{
+    color:black;
+}
+h5{
+    margin:15px 0px 0px 0px; 
+}
+#main_container{
+    height:700px;
+    margin:15px;
+    /* background-color: pink; */
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    display:flex;
+    flex-direction:row;
+    
+}
+#sub_container{
+    /* background-color: black; */
+    height:85%;
+    width:45%;
+    margin:40px 0px 40px 40px;
+    
+    display:flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+
+#product_image{
+    height:80%;
+    width:80%;
+    padding:0px;
+    margin:20px 0px 40px 40px; 
+    align-self: baseline;
+    background-image: url("soft_toy.png");
+    background-size:cover ;
+    border-radius: 30px;
+    border: 2px solid rgb(218, 17, 134);
+}
+button{
+    height: 60px;
+    display:inline-block;
+    width:200px;
+    align-self:flex-start;
+    margin-left:50px;
+    font-size:larger;
+    border-radius: 18px;
+    background-color:rgb(82, 127, 189);
+    color:white;
+    border:2px solid pink;
+    margin-left: 65px;
+}
+#_button{
+    text-decoration:none;
+}
+#Button2{
+    margin-left: 20px;
+    background-color:rgb(218, 17, 134);
+}
+#product_info{
+    /* background-color:#f293a9; */
+    margin-left:40px;
+    height:85%;
+    width:60%;
+    margin:40px 40px 40px 0px; 
+}
+
+#price{
+    height: 60px;
+    
+}
+.MRP{
+    margin: 0px 0px 0px 0px;
+    display:inline-block;
+    color:rgb(57, 41, 41);
+}
+pre{
+    font-size: 15px;
+    margin:0px;;
+
+}
+p{
+    text-decoration: line-through;
+}
+small{
+    color:red;
+}
+#color{
+    font-size: 18px;
+
+}
+span{
+    display:inline-block;
+    width:15px;
+    height:15px;
+    margin:1px;
+    margin-bottom: 0px;
+    font-size: 1px;
+}
+#one{
+    background-color:darkolivegreen;
+    
+}
+#two{
+    background-color:rgb(139, 112, 31);
+    
+}
+#three{
+    background-color:rgb(70, 67, 67);
+    
+}
+
+#siz_basis{
+    background-color: coral;
+    border-radius: 4px;
+    height:fit-content;
+    width:fit-content;
+    font-size:14px;
+    margin-left:5px;
+}
+#size{
+    display:flex;
+}
+.siz1{
+    border:none;
+    padding-top: 15px;
+}
+.siz{
+
+    display: inline-block;
+    height: 50px;
+    width:100px;
+    border:2px solid rgb(208, 202, 202);
+    margin:10px;
+    text-align: center;
+    padding-top:10px ;
+}
+#icons{
+    height:fit-content;
+    width: fit-content;
+}
+
+.img{
+    
+    display:flex;
+    /* height: 80px; 
+    width: 80px;
+   
+    margin:10px;
+    border-radius: 4px;*/
+    justify-content: space-between;
+    height:100px;
+    width:700px;
+}
+#img1{
+    border:2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy1.png");
+}
+#img2{
+    border:2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy2.png");
+    background-size: cover;
+}
+#img3{
+    border: 2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy3.png");
+    background-size: cover;
+}
+#img4{
+    border: 2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy4.png");
+}
+#img5{
+    border:2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy5.png");
+}
+
+#img6{
+    border:2px solid rgb(218, 17, 134);
+    height:80px;
+    width:80px;
+    background-image: url("toy6.png");
+}
+
+#shortlist{
+    width:90px;
+    height: 90px;
+    margin: 0px 0px 0px 10px;
+    background-color:rgb(218, 17, 134);
+}
