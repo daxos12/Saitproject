@@ -1,6 +1,7 @@
 *{
     font-family:Arial, Helvetica, sans-serif;
     color:rgb(41, 22, 22);
+
 }
 b{
     font-size: 16px;
@@ -204,4 +205,7 @@ span{
     margin: 0px 0px 0px 10px;
     background-color:red;
     
+}
+body{
+    margin: 0px;
 }

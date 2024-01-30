@@ -1,8 +1,22 @@
 #logo{
     display: inline-block;
+    font-size: larger;
+
+    
 }
 #search{
     display: inline-block;
+    /* border: 2px solid black;
+    width: 500px; */
+
+    
+}
+
+input{
+    width: 500px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    height: 30px;
 }
 
 .elements{
@@ -63,10 +77,51 @@ a{
     border-radius: 20px;
     border-width: 5px;
     height: 40px;
+    width: 100px;
+    
     
 }
 #info{
     position: absolute;
     left: 100px;
     top: 400px;
+}
+#info2{
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+
+#buy2{
+    background-color: rgba(72, 138, 179, 0.259);
+    border-radius: 20px;
+    border-width: 5px;
+    height: 40px;
+    width: 100px;
+}
+#buy3{
+    background-color: rgba(72, 138, 179, 0.259);
+    border-radius: 20px;
+    border-width: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+#allelements{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    /* border: 2px solid black; */
+    font-size: larger;
+}
+
+#material{
+    font-size: large;
+
+}
+#halfpage{
+    position: absolute;
+    top: 17px;
 }
