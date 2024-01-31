@@ -16,6 +16,7 @@ body{
 }
 .main{
     display:flex;
+    border-radius: 20px;
 }
 .wrapper{
     
