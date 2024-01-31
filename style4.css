@@ -1,0 +1,212 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+div{
+    color:black;
+}
+h2{
+    color:darkblue;
+}
+pre{
+    color:black;
+}
+
+b{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main_container{
+    height:700px;
+    margin:15px;
+    /* background-color: pink; */
+    background-image: url("back.jpg");
+    background-size:cover;
+    display:flex;
+    flex-direction:row;
+    
+}
+#sub_container{
+    /* background-color: black; */
+    height:85%;
+    width:45%;
+    margin:40px 0px 40px 40px;
+    
+    display:flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+
+#product_image{
+    height:80%;
+    width:80%;
+    padding:0px;
+    margin:20px 0px 40px 40px; 
+    align-self: baseline;
+    background-image: url("main1.png");
+    background-size:cover;
+    border-radius: 30px;
+    border: 2px solid rgb(22, 118, 174);
+}
+pre{
+    font-size: 15px;
+    margin-top: 0px;
+}
+a{
+    text-decoration:none;
+    
+}
+#product_info{
+    /* background-color:#f293a9; */
+    margin-left:40px;
+    height:85%;
+    width:60%;
+    margin:40px 40px 40px 0px; 
+}
+#buttons{
+    display:flex;
+}
+button{
+    height: 60px;
+    display:inline-block;
+    width:200px;
+    align-self:flex-start;
+    margin-left:50px;
+    font-size:larger;
+    border-radius: 18px;
+    background-color:rgb(58, 192, 192); 
+    /* color:aliceblue; */
+    /* color:pink; */
+    color:white; 
+    border:2px solid rgb(22, 118, 174);
+    margin-left: 65px;
+}
+#Button2{
+    background-color:red;
+    margin-left: 10px;
+}
+
+#price{
+    height:55px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+.MRP{
+    padding:0px;
+    margin:0px 0px 0px 0px;
+    display:inline-block;
+    color:rgb(7, 0, 0);
+}
+p{
+    text-decoration: line-through;
+}
+small{
+    color:red;
+}
+#color{
+    font-size: 18px;
+    color:black;
+
+}
+span{
+    display:inline-block;
+    width:15px;
+    height:15px;
+    margin:1px;
+    margin-bottom: 0px;
+    font-size: 1px;
+}
+#one{
+    background-color:palevioletred;
+   
+}
+#two{
+    background-color: maroon;
+    
+}
+#three{
+    background-color:black;
+    
+}
+#siz_basis{
+    background-color: rgb(22, 118, 174);
+    border-radius: 4px;
+    height:fit-content;
+    width:fit-content;
+    font-size:14px;
+    margin-left:5px;
+}
+#size{
+    display:flex;
+}
+.siz1{
+    border:none;
+    padding-top: 12px;
+}
+.siz{
+    text-align: center;
+    display: inline-block;
+    height: 20px;
+    width:100px;
+    border:2px solid rgb(131, 153, 218);
+    margin:10px;
+    padding-top:0px ;
+}
+
+#icons{
+    height:fit-content;
+    width: fit-content;
+}
+
+.img{
+    
+    display:flex;
+    /* height: 80px; 
+    width: 80px;
+   
+    margin:10px;
+    border-radius: 4px;*/
+    justify-content: space-between;
+    height:100px;
+    width:600px;
+}
+#img1{
+    border:2px solid rgb(22, 118, 174);
+    height:80px;
+    width:80px;
+    background-image: url("pullover1.png");
+}
+#img2{
+    border:2px solid rgb(22, 118, 174);
+    height:80px;
+    width:80px;
+    background-image: url("pullover2.png");
+    background-size: cover;
+}
+#img3{
+    border: 2px solid rgb(22, 118, 174);
+    height:80px;
+    width:80px;
+    background-image: url("pullover3.png");
+    background-size: cover;
+}
+#img4{
+    border: 2px solid rgb(22, 118, 174);
+    height:80px;
+    width:80px;
+    background-image: url("pullover4.png");
+}
+#img5{
+    border:2px solid rgb(22, 118, 174);
+    height:80px;
+    width:80px;
+    background-image: url("pullover5.png");
+}
+
+#shortlist{
+    width:90px;
+    height: 90px;
+    margin: 0px 0px 0px 10px;
+    background-color:rgb(58, 192, 192);
+    
+}
+
